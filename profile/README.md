@@ -3,12 +3,17 @@
 
 <p align="center"> A complex ETL workflow centered around analyzing protein and genomic context similarity </p>
 
-<div align="center"> 
+<p align="center">
 Documentation: https://socialgene.github.io
+</p>
+<p align="center"> Nextflow workflow: https://github.com/socialgene/sgnf</p>
+<p align="center">
+  Python package: https://github.com/socialgene/sgpy
+</p>
 
-Nextflow workflow: https://github.com/socialgene/sgnf
 
-Python package: https://github.com/socialgene/sgpy
+
+
 </div>
 
 ![refseq_db_schema](https://github.com/socialgene/.github/assets/18691127/64452577-3f37-48cd-8e0a-5134b3880f35)
