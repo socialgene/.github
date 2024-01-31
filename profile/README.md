@@ -11,7 +11,7 @@ Documentation: https://socialgene.github.io
   Python package: https://github.com/socialgene/sgpy
 </p>
 
-Knowledge graphs  are increasingly popular in bioinformatics, cheminformatics, and drug discovery. However, strict onotological databases tend to be really hard to comprehend and few knowledgegraphs are built on computation, most simply link disparate databases. SocialGene attempts to create a knowledge graph for natural product drug discovery that is built off incorporating disparate data and calulations thereon. I've attempted to make it as simple as possible to create and work with the databases, and extend to new sources.
+Knowledge graphs  are increasingly popular in bioinformatics, cheminformatics, and drug discovery. However, strict ontological databases tend to be hard to comprehend and few knowledgegraphs are built on computation, most simply link disparate databases. SocialGene attempts to create a knowledge graph for natural product drug discovery that is built off incorporating disparate data and calulations thereon. I've attempted to make it as simple as possible to create and work with the databases, and extend to new sources.
 
 
 
